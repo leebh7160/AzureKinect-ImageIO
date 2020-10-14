@@ -1,0 +1,9 @@
+﻿  kinect.cpp
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(689): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(712): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(737): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(759): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\user\desktop\azurekinectproject\azurekinectproject\kinect.cpp(102): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\azurekinectproject\azurekinectproject\kinect.cpp(102): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  AzureKinectProject.vcxproj -> C:\Users\User\Desktop\AzureKinectProject\x64\Debug\AzureKinectProject.exe
+  AzureKinectProject.vcxproj -> C:\Users\User\Desktop\AzureKinectProject\x64\Debug\AzureKinectProject.pdb (Partial PDB)
