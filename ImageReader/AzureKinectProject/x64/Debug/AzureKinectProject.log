@@ -1,0 +1,7 @@
+﻿  ImageReader.cpp
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(689): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(712): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(737): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\program files\azure kinect sdk v1.4.0\sdk\include\k4a\k4a.hpp(759): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  AzureKinectProject.vcxproj -> C:\Users\User\Desktop\ImageReader\x64\Debug\AzureKinectProject.exe
+  AzureKinectProject.vcxproj -> C:\Users\User\Desktop\ImageReader\x64\Debug\AzureKinectProject.pdb (Partial PDB)
